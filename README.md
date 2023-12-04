@@ -1,6 +1,6 @@
 # 😺 Hi! I'm Jim 🐈‍⬛
 
-- I'm a Software Engineer who is getting ready to re-join the industry after being away for a while.
+- I'm a Software Engineer, ready to re-join the industry after being away for a while.
 
 - There has been A LOT of change during my time away, so I am in the process of catching up with all the new stuff.
 
