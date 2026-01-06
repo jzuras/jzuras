@@ -6,8 +6,6 @@
 
 - During my current transition, I will be doing some resume-driven development, which I will be posting about on LinkedIn, and possibly adding new repositories here as well.
 
-- As of this writing (May 2025), all of the current repositories are from my previous between-jobs stint, learning new things (what I called my Learning Journey) or brushing up on the older stuff (no cool name for this part, sadly).
-
 - Please see my [LinkedIn profile](https://www.linkedin.com/in/jimzuras/) for much more detail about all of the above.
 
 ---
